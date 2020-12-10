@@ -1,0 +1,402 @@
+[
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Berdarah",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 1
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Muda",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Lemas",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Dewasa",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Pria",
+    "Keringat": "Tak Berkeringat",
+    "Batuk": "Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  },
+  {
+    "Usia": "Tua",
+    "Jenis Kelamin": "Wanita",
+    "Keringat": "Berkeringat",
+    "Batuk": "Tidak Batuk",
+    "Kondisi Tubuh": "Normal",
+    "TBC": 0
+  }
+]
